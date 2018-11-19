@@ -1,0 +1,14 @@
+{
+    "name": "stariteos",
+    "version": "1.0.0",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "author": "Safyre Lyons",
+    "license": "CLOSED SOURCE MATIRAL",
+    "dependencies": {
+        "electron": "^3.0.9",
+        "react": "^16.6.3"
+    }
+}
